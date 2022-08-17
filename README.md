@@ -10,5 +10,5 @@
   
   ## Dropout...
   
-Citations and resources from ``Towards datascience blog posts``, Jovian creator ``Aakash N S``, YouTube and some more
+Citations and resources from ``Towards datascience blog posts``, Jovian founder ``Aakash N S``, YouTube and some more
 
